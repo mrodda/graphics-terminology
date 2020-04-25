@@ -1,6 +1,6 @@
 # Terms
 
-## [display] adapter
+## graphics [or display] adapter 
 
-> (computer science) an electronic device that converts information in memory to video output to a display
-> -- <a href="https://www.thefreedictionary.com/display+adapter">display adapter</a>
+> (Computer Science) (on a computer) the hardware that controls the way graphics appear on the monitor
+> -- <a href="https://www.thefreedictionary.com/graphics+adapter">graphics adapter</a>
